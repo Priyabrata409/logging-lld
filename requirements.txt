@@ -1,0 +1,3 @@
+# Design a Logger module (class)
+# which supports multiple level logging, INFO , DEBUG, WARNING, ERROR
+# wihich supports multiple destination source , STDOUT , LOGSTASH,  FILE
